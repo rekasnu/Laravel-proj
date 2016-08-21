@@ -65,10 +65,10 @@ return array(
 	/*	
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'eu-cdbr-azure-west-a.cloudapp.net',
-			'database'  => 'restaurantDATA',
-			'username'  => 'b4c180d3b8c3b9',
-			'password'  => '8399d31c',
+			'host'      => '',
+			'database'  => '',
+			'username'  => '',
+			'password'  => '',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
@@ -87,10 +87,10 @@ return array(
 
 		'sqlsrv' => array(
 			'driver'   => 'sqlsrv',
-			'host'     => 'tcp:vnx22izrsv.database.windows.net,1433',
-			'database' => 'restaurants_data',
-			'username' => 'analist22@vnx22izrsv',
-			'password' => 'Smiekli41%',
+			'host'     => '',
+			'database' => '',
+			'username' => '',
+			'password' => '',
 			'prefix'   => '',
 		),
 
